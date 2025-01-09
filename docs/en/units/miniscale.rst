@@ -83,7 +83,7 @@ Methods
 
 		|get_button.svg|
 
-.. method:: MiniScaleUnit.tare()
+.. method:: MiniScaleUnit.tare
 
 
 	Tare the scale.
